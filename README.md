@@ -22,11 +22,11 @@ Mudanças relevantes feitas no projeto original incluem:
 
 2. Insira o link de um arquivo compatível (.gblorb, .z3, .z4, .z5 etc.) ou faça upload de um arquivo local. Também é possível abrir um arquivo externo usando o parâmetro de URL "story=".
 
-3. Selecione uma tradução no bottão retangular à direita do input. 
+3. Selecione uma tradução no botão retangular à direita do input. 
 
 4. O texto na tela será traduzido automaticamente com uso da ferramenta google translate page. 
 
-5. Escreva o texto no seu idioma e antes de clicar (`Enter`), clique no botão de Traduzir ou faça o mesmo usando o atalho (`ALT Gr`).
+5. Escreva o texto no seu idioma e antes de clicar `Enter`, clique no botão de Traduzir ou faça o mesmo usando o atalho `ALT Gr`.
 
 ### Licença
 
